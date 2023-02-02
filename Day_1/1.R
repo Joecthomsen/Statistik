@@ -4,7 +4,7 @@
 # order) for 10 female births and 10 male births:
 
 # See detailes:
-"../Images/1.1.PNG"
+"../Images/Day_1/1.PNG"
 
 # 1.1)
 # What is the sample mean, variance and standard deviation of the female
