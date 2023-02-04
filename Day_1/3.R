@@ -38,11 +38,11 @@ cor(before, after) # 0.8096188
 # sample mean, sample variance, sample standard deviation, boxplot etc
 
 difference <- c(9.1 - 8.2, 8.0 - 6.4, 7.7-6.6, 10-8.5, 9.6-8, 7.9-5.8, 9.0-7.8, 7.1-7.2, 8.3-6.7, 9.6-9.8, 8.2-7.1, 9.2-7.7, 7.3-6, 8.5-6.6, 9.5-8.4)
-
 mean(difference) # 1.2
 var(difference) # 0.41
 sd(difference) # 0.64
 boxplot(difference, col="red", main="Difference")
+boxplot(list(before, after), col=2:3, main="Compaire before and after")
 
 # 3.6)
 # Observing such data the big question is whether an average decrease in
