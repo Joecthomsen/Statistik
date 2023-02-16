@@ -1,0 +1,7 @@
+
+phyper = cumulative
+dhyper = densenti
+
+
+binominal: MED tilbagelægning
+hypergeometrisk: UDEN tilbagelægning
